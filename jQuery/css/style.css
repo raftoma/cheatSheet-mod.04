@@ -1,0 +1,18 @@
+
+button {
+    background: #bbbbbb;
+    color: #000;
+    border: solid 1px #ff0a1b;
+    border-radius: 10px;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.hidden {
+    width: 400px;
+    background: #878787;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    display: none;
+}
